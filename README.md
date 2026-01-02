@@ -1,6 +1,6 @@
 # Namma Ration
 
-A smarter, faster way to get your ration — without standing in long queues.
+A smarter, faster way to get your ration - without standing in long queues.
 
 ## What is Namma Ration?
 
