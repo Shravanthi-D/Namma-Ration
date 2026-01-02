@@ -1,0 +1,27 @@
+{
+  "shops": {
+    "402": {
+      "rice": 450,
+      "sugar": 120
+    }
+  },
+  "Users": {
+    "1234567890": {
+      "Name": "Test User",
+      "Card_id": "TN-01-SMART-99",
+      "Quota_rice": 20
+    }
+  },
+  "orders": {
+    "PDS-1234": {
+      "ration_card": "1234567890",
+      "items": [
+        {"item": "rice", "qty": 5},
+        {"item": "sugar", "qty": 2}
+      ],
+      "token": "PDS-1234",
+      "slot": "காலை 10 - 1 மணி",
+      "status": "Confirmed"
+    }
+  }
+}
