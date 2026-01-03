@@ -17,13 +17,13 @@ A bilingual (English/Tamil) Public Distribution System (PDS) mobile application 
 
 ### Key Features
 
-- ✅ **Bilingual Support** - All screens display both English and Tamil text
-- ✅ **Beautiful UI** - Matches original React design with Material Design
-- ✅ **Interactive Elements** - Quantity steppers, date/time selection, toggles
-- ✅ **QR Code Generation** - Digital token with scannable QR code
-- ✅ **Bottom Navigation** - Easy navigation between main sections
-- ✅ **Responsive Design** - Optimized for mobile devices (max width 480px)
-- ✅ **Custom Fonts** - Google Fonts (Inter for English, Noto Sans Tamil for Tamil)
+-  **Bilingual Support** - All screens display both English and Tamil text
+-  **Beautiful UI** - Matches original React design with Material Design
+-  **Interactive Elements** - Quantity steppers, date/time selection, toggles
+-  **QR Code Generation** - Digital token with scannable QR code
+-  **Bottom Navigation** - Easy navigation between main sections
+-  **Responsive Design** - Optimized for mobile devices (max width 480px)
+-  **Custom Fonts** - Google Fonts (Inter for English, Noto Sans Tamil for Tamil)
 
 ## Design
 
@@ -50,18 +50,24 @@ A bilingual (English/Tamil) Public Distribution System (PDS) mobile application 
 
 ### Installation
 
-1. Clone or navigate to the project directory:
-```bash
-cd namma_ration_flutter
+1. Clone the repository:
+```
+git clone https://github.com/Shravanthi-D/Namma-Ration.git
+cd Namma-Ration
 ```
 
-2. Get dependencies:
-```bash
+2. Navigate to the Flutter app directory:
+```
+cd "Flutter App"
+```
+
+3. Get dependencies:
+```
 flutter pub get
 ```
 
-3. Run the app:
-```bash
+4. Run the app:
+```
 flutter run
 ```
 
